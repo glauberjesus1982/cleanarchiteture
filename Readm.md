@@ -1,1 +1,0 @@
-Api do curso de clean architecture do Rodrigo Manguinho do youtube.
